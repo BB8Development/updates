@@ -36,7 +36,7 @@ Add the "node" configuration parameter.
 
 0.0.2
 -----
-Remove amizer call in startup script.
+Remove amixer call in startup script.
 Move display of welcome animation until after AVS is connected.
 Add a sound when the startup script starts running.
 
