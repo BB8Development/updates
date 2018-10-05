@@ -1,6 +1,7 @@
 0.0.16
 ------
 Rework animation preempt logic.
+Get rid of stray agitation animations after stopping.
 
 0.0.15
 ------
