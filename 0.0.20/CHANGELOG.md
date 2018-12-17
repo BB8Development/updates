@@ -1,9 +1,9 @@
 0.0.20
-======
+------
 Add wake word model file.
 
 0.0.19
-======
+------
 Update Sensory license.
 
 0.0.18
